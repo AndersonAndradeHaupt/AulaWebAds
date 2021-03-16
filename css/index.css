@@ -1,0 +1,31 @@
+#principal {
+    background-color: darkgray;
+}
+
+#menu ul{
+    display: inline;
+    position: fixed;
+    
+}
+
+#menu ul li{
+    display: inline;
+}
+
+#corpo section{
+    padding-top: 20px;
+}
+
+#corpo section h1{
+    color: blue;
+    font-family: Verdana;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#principalcad {
+    background-color: darkgray;    
+}
+
+
+
